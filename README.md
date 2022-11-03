@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning artificial intelligence and web3. 
 - 💞️ I’m looking to collaborate on a startup.
 - 📫 How to reach me 
-         Website: https://benjaminsloutsky.com
-         Email: benjamin.sloutsky@gmail.com
-         LinkedIn: https://www.linkedin.com/in/benjamin-sloutsky-9b9b09235/
+         - Website: https://benjaminsloutsky.com
+         - Email: benjamin.sloutsky@gmail.com
+         - LinkedIn: https://www.linkedin.com/in/benjamin-sloutsky-9b9b09235/
 
 
 <!---
