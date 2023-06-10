@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bslou
-- 👀 I’m interested in learning various skills in general. I love to learn and want to educate myself on the future that the people want. I want to be at the forefront helping to create a better future for the people!
+- 👀 I’m interested in learning various skills. I love to learn and want to educate myself on the future that the people want. I want to be at the forefront helping to create a better future for the people!
 - 🌱 I’m currently learning artificial intelligence and web3. 
 - 💞️ I’m looking to collaborate on a startup.
 - 📫 How to reach me 
